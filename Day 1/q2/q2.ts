@@ -1,7 +1,4 @@
 // DAY 1 CHALLENGE 
-
-import { log } from "console";
-
 // Question # 02
 
 // Personal Message: Store a person’s name in a variable and print a message to them, 
